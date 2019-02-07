@@ -1,0 +1,10 @@
+curr/.vs
+curr/curr.sln
+curr/curr/bin
+curr/curr/obj
+curr/curr/Properties
+curr/curr/Objects
+curr/curr/Assets
+curr/curr/curr_TemporaryKey.pfx
+curr/curr/Package.appxmanifest
+curr/curr/curr.csproj
